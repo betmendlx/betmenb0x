@@ -14,23 +14,23 @@ Sebelum menjalankan skrip, pastikan Anda telah menginstal Python 3 dan library `
 
 ```bash
 pip3 install requests
+```
 
-Penggunaan
-Menginstal Winbox
 
+#Menginstal Winbox
 Untuk menginstal Winbox, jalankan perintah berikut:
-
+```
 sudo python3 betmenb0x.py install
-
-Menghapus Winbox
-
+```
+#Menghapus Winbox
 Untuk menghapus Winbox, jalankan perintah berikut:
-
+```
 sudo python3 betmenb0x.py remove
+```
 
-Struktur Proyek
+#Struktur Proyek
 
-winbox-installer/
+betmenb0x/
 ├── betmenb0x.py
 ├── winbox.sh
 ├── icons/
@@ -44,8 +44,8 @@ winbox-installer/
     icons/: Direktori yang berisi ikon-ikon Winbox untuk peluncur aplikasi.
     README.md: Dokumentasi proyek.
 
-Kontribusi
 
+#Kontribusi
 Anda dapat berkontribusi pada proyek ini dengan cara:
 
     Fork repositori ini.
@@ -60,17 +60,10 @@ Lisensi
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file LICENSE untuk detail lebih lanjut.
 Kontak
 
-Jika Anda memiliki pertanyaan atau masalah, silakan hubungi saya melalui email: [email@example.com] atau buka isu di repositori ini.
-
-
-### Tambahan (Opsional)
-Anda juga dapat menambahkan file `LICENSE` jika Anda menggunakan lisensi MIT atau lisensi lainnya. Berikut adalah contoh file `LICENSE` untuk lisensi MIT:
-
 **LICENSE**
-
 MIT License
 
-Copyright (c) [Tahun], [Nama Anda]
+Copyright (c) [2024], [betmen-n-dgeng]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
