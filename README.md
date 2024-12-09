@@ -44,22 +44,6 @@ betmenb0x/
     icons/: Direktori yang berisi ikon-ikon Winbox untuk peluncur aplikasi.
     README.md: Dokumentasi proyek.
 ```
-
-#Kontribusi
-Anda dapat berkontribusi pada proyek ini dengan cara:
-
-    Fork repositori ini.
-    Buat branch baru (git checkout -b feature/nama-fitur).
-    Lakukan perubahan yang Anda inginkan.
-    Commit perubahan Anda (git commit -am 'Add some feature').
-    Push ke branch Anda (git push origin feature/nama-fitur).
-    Buka Pull Request.
-
-Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file LICENSE untuk detail lebih lanjut.
-Kontak
-
 **LICENSE**
 MIT License
 
