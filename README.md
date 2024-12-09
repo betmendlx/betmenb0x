@@ -29,7 +29,7 @@ sudo python3 betmenb0x.py remove
 ```
 
 #Struktur Proyek
-
+```
 betmenb0x/
 ├── betmenb0x.py
 ├── winbox.sh
@@ -43,7 +43,7 @@ betmenb0x/
     winbox.sh: Skrip shell yang menjalankan Winbox menggunakan Wine.
     icons/: Direktori yang berisi ikon-ikon Winbox untuk peluncur aplikasi.
     README.md: Dokumentasi proyek.
-
+```
 
 #Kontribusi
 Anda dapat berkontribusi pada proyek ini dengan cara:
