@@ -1,4 +1,5 @@
 # Winbox Installer
+# inspirasi dari https://github.com/mriza
 
 ## Deskripsi
 Skrip ini bertujuan untuk menginstal dan menghapus aplikasi Winbox di sistem Linux menggunakan Python. Skrip ini akan mengunduh dependensi yang diperlukan, mengunduh Winbox dari situs resmi Mikrotik, menyalin file yang diperlukan ke direktori yang tepat, dan membuat peluncur aplikasi.
